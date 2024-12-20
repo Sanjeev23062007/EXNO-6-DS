@@ -1,5 +1,5 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-## Name: SANJVEEV 
+## Name: SANJEEV 
 ## Reg no:24900568
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
